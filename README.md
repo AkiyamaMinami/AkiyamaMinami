@@ -6,3 +6,4 @@
 - 🏠 [mobs.fun](https://mobs.fun)
 - 👻👻👻
 
+![Visits Badge](https://badges.pufler.dev/visits/AkiyamaMinami/AkiyamaMinami)
