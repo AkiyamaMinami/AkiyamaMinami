@@ -2,6 +2,7 @@
 <img align="left" alt="歡迎來我家玩" width="105px" height="145px" style="margin-right:10px"src="https://s2.loli.net/2022/06/26/a2t7fEPJbpTkVwY.png">
 
 ### Hi 🛫
-- 🔨 FrontEnd
+- 🔨 working on the frontend
 - 🏠 [mobs.fun](https://mobs.fun)
-- 👻 小怪
+- 👻👻👻
+
